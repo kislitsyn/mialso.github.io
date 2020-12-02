@@ -20,9 +20,9 @@
   "homepage": "https://github.com/mialso/mialso.github.io#readme",
   "dependencies": {
     "xterm": "^4.9.0",
-    "express":"*",
-    "body-parser":"*",
-    "bcrypt": "^0.8.5"
+    "express": "*",
+    "body-parser": "*",
+    "bcrypt": "*"
   },
   "devDependencies": {
     "eslint": "^7.2.0",
